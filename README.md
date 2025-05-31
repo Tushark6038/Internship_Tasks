@@ -6,7 +6,7 @@ This repository contains a cleaned version of the Titanic dataset from Kaggle, c
 
 ## 📦 Dataset Files
 
-- [`train.csv`](link-to-your-train.csv) – Raw training data
+- [`train.csv`](https://github.com/Tushark6038/Internship_Tasks/blob/89fe3df27e3a2918e52e03bd07e14011dabc8c75/train.csv) – Raw training data
 - [`test.csv`](https://github.com/Tushark6038/Internship_Tasks/blob/5df4191a2a95375bcfd8a3d47a88b634ce431e30/test.csv) – Raw test data
 - [`gender_submission.csv`](https://github.com/Tushark6038/Internship_Tasks/blob/4ebe6600899d518c1fd372562be294db6506a89c/gender_submission.csv) – Sample submission file
 - [`cleaned_train.csv`](https://github.com/Tushark6038/Internship_Tasks/blob/28277a97127add5a169d79f00f90b2834a201cd9/Cleaned%20Dataset.csv) – ✅ Cleaned training dataset
@@ -51,7 +51,7 @@ For any feedback or suggestions, feel free to reach out!
 
 ## 🔗 Link to Dataset
 
-[👉 Download Cleaned Dataset.xlsx](link-to-your-cleaned-dataset-on-github)
+[👉 Download Cleaned Dataset.xlsx](https://github.com/Tushark6038/Internship_Tasks/blob/28277a97127add5a169d79f00f90b2834a201cd9/Cleaned%20Dataset.csv)
 
 ---
 
