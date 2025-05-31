@@ -2,7 +2,7 @@
 
 This repository contains a cleaned version of the Titanic dataset from Kaggle, consolidated into a single Excel file. The goal of this project was to clean and prepare the data for use in machine learning models and data analysis.
 
----
+----
 
 ## 📦 Dataset Files
 
