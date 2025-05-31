@@ -1,1 +1,60 @@
-# Internship_Tasks
+# 🚢 Titanic Dataset - Cleaned Version by Me
+
+This repository contains a cleaned version of the Titanic dataset from Kaggle, consolidated into a single Excel file. The goal of this project was to clean and prepare the data for use in machine learning models and data analysis.
+
+---
+
+## 📦 Dataset Files
+
+- [`train.csv`](link-to-your-train.csv) – Raw training data
+- [`test.csv`](link-to-your-test.csv) – Raw test data
+- [`gender_submission.csv`](link-to-your-gender_submission.csv) – Sample submission file
+- [`cleaned_train.csv`](link-to-your-cleaned_train.csv) – ✅ Cleaned training dataset
+  
+This file includes:
+- ✅ Preprocessed and cleaned **training and test data**
+- 📊 Features ready for visualization and machine learning
+
+---
+
+## 🛠️ Key Cleaning Steps Performed
+
+1. **Missing Values Handled**
+   - `Age`, `Fare`, and `Embarked` were filled using median or mode
+   - `Cabin` was dropped due to excessive missingness
+
+2. **Categorical Encoding**
+   - Converted `Sex` and `Embarked` into numeric labels using label encoding
+
+3. **Irrelevant Columns Removed**
+   - Removed `Ticket` and `Cabin` to reduce noise and complexity
+
+4. **Exported Clean File**
+   - All changes stored in `Cleaned Dataset.xlsx` for convenience
+
+---
+
+## 📊 Ready for ML!
+
+You can now use `Cleaned Dataset.xlsx` for:
+- ✅ Building classification models (e.g., survival prediction)
+- ✅ Exploratory data analysis (EDA) and visualizations
+- ✅ Kaggle submissions after appropriate splitting
+
+---
+
+## 📧 Contact
+
+For any feedback or suggestions, feel free to reach out!
+
+---
+
+## 🔗 Link to Dataset
+
+[👉 Download Cleaned Dataset.xlsx](link-to-your-cleaned-dataset-on-github)
+
+---
+
+## 💻 Tools Used
+
+- **Excel for final export**
